@@ -87,6 +87,7 @@ namespace Uno_ExtraRules
             "Slumpa fram 2 effekter, välj en av dem att aktivera.",
             "Slumpa fram 2 effekter, välj en av dem att aktivera.",
             "Slumpa fram 2 effekter, välj en av dem att aktivera.",
+            "Spelare får nu som mest ha 10 kort på handen. Om den mängden överstigs måste den spelare slänga kort tills hen återigen har 10 kort"
 
         };
 
